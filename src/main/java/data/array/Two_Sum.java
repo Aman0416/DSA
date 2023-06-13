@@ -9,7 +9,7 @@ public class Two_Sum {
 
         System.out.println("Please enter an array(size must be greater than 2)-");
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Please enter the size of Array:");
+        //System.out.println("Please enter the size of Array:");
         size = scanner.nextInt();
         System.out.println("Now Please enter the Array:");
 
